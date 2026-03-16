@@ -37,4 +37,4 @@ Public repositories and flagship platform work will be pinned here as they are p
 
 ## Contact
 
-More company and product links will be added here soon.
+Public repositories, technical write-ups, and flagship platform work will be added here as they are published.
